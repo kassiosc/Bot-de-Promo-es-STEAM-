@@ -1,0 +1,11 @@
+# Pastas geradas pelo PyInstaller
+build/
+dist/
+*.spec
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Histórico local de notificações
+promocoes_enviadas.json
